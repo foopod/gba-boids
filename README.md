@@ -1,3 +1,3 @@
-# Text Example
+#  Boids example
 
-Simple example to show how text might be shown in Butano.
+Please see https://jonoshields.com/post/boids-on-gba
